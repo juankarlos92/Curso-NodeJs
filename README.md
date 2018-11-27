@@ -1,2 +1,2 @@
 # Curso-NodeJs
-Iniciando el curso de NodeJs practico 
+Iniciando el curso de NodeJs Basico y practico 
